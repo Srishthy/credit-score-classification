@@ -57,7 +57,7 @@ Framing A model comparison (customer-grouped CV, with temporal features):
 
 ## Run it
 
-Open `credit_score_pipeline.ipynb` in Google Colab and select **Runtime → Run all** (about 40 minutes on a CPU runtime).
+Open `credit_score_pipeline.ipynb` in Google Colab and select **Runtime → Run all** .
 The dataset downloads automatically through `kagglehub`; if prompted, run `kagglehub.login()` with your Kaggle API token.
 
 ```
